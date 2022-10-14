@@ -4,5 +4,5 @@
 - apples
 - bananas
 - 4 pears
-- milk
-- cheese
+- dairy-free milk
+- dairy-free cheese
