@@ -6,5 +6,6 @@
 - 4 pears
 - dairy-free milk
 - dairy-free cheese
-- muffins
+- chocolate chip muffins
 - spicy salsa
+- tortilla chips
