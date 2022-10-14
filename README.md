@@ -3,4 +3,4 @@
 # Tomorrow's Grocery List
 - apples
 - bananas
-- pears
+- 4 pears
