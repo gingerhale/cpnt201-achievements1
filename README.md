@@ -6,5 +6,5 @@
 - 4 pears
 - dairy-free milk
 - dairy-free cheese
-- muffins
+- bran muffins
 - spicy salsa
