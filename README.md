@@ -1,7 +1,7 @@
 # cpnt201-achievements1
 
 # Tomorrow's Grocery List
-- apples
+- apricots
 - bananas
 - 4 pears
 - dairy-free milk
