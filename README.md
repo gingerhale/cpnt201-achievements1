@@ -9,4 +9,4 @@
 - chocolate chip muffins
 - spicy salsa
 - tortilla chips
-- pop
+- juice
