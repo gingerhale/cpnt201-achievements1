@@ -6,3 +6,5 @@
 - 4 pears
 - dairy-free milk
 - dairy-free cheese
+- muffins
+- salsa
