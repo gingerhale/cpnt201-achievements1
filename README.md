@@ -7,4 +7,4 @@
 - dairy-free milk
 - dairy-free cheese
 - muffins
-- salsa
+- spicy salsa
