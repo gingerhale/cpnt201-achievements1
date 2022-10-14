@@ -4,5 +4,6 @@
 - apples
 - bananas
 - 4 pears
-- milk
+- 2% milk
 - cheese
+- bread 
